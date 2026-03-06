@@ -32,6 +32,11 @@ Now you have your development environment set up and you are ready to go!
 You can find some useful notes here:
 * [Useful Notes](tweed_sc2/useful_notes/README.md)
 
+Note: Please make sure you understand the basic usage of the fundationational
+libraries, as shown in [this note.](tweed_sc2/useful_notes/1_note_on_foundational_libraries.md)
+
+You may also read the 2nd and 3rd notes.
+
 Also the two final projects here:
 * [Wind power forecasting](tweed_sc2/wind_power_forecasting/README.md)
 * [Wind turbine fault detection](tweed_sc2/wind_turbine_fault_detection/README.md)

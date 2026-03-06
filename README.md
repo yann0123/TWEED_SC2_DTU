@@ -4,8 +4,7 @@ This repository hosts part of the material for the 2nd specific course in the TW
 ## How to start
 
 1. Make sure you have the right development environment setup, i.e., Git, Python and 
-MiniConda for environment. Check the [Guide](
-development_environment_setup.md) to learn hwow do it.
+MiniConda for environment. Check the [Guide](development_environment_setup.md) to learn how to do it.
 
 2. Open you Git terminal, move to the directory you want to put this 
 repo, and create a dedicated environment by running:

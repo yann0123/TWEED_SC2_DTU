@@ -284,7 +284,9 @@ using two different ML models (like support vector machine or neural network)
 models using `pickle`.
 
 ### Formal requirements
-Check the general requirements in the README of this repo.
+
+- Your code should be well-documented, modular.
+- Use `scikit-learn` as the primary machine learning library. If you have time, you may use TensorFlow/Keras or PyTorch, but this is optional.
 
 ### Other tips
 * You are recommended to use `scikit-learn` to develop this package. 
